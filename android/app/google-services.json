@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223684340179",
+    "project_id": "todoapp-f2209",
+    "storage_bucket": "todoapp-f2209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223684340179:android:f93654afe33baad4246726",
+        "android_client_info": {
+          "package_name": "com.excersise_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLMPpVZlwPPE9a2y48Lfv-CZgFTLVuhAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
